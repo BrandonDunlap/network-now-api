@@ -1,0 +1,24 @@
+# dependencies
+/node_modules
+
+# dotenv environment variables file
+.env
+
+# local mongo database
+/data
+
+# logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# editor directories and files
+/.vscode
+.idea/
+.DS_Store
+*.sublime*
+
+# optional npm cache directory
+.npm

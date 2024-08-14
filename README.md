@@ -27,7 +27,7 @@ The API routes can be tested using Insomnia or Postman. Below are the available 
 - `DELETE /api/thoughts/:thoughtId/reactions/:reactionId`
 
 ## Walkthrough Video
-[Link to the walkthrough video]
+[Link to Video](https://www.youtube.com/watch?v=9qHAmMO9QJU)
 
 ## License
 This project is licensed under the MIT License.
